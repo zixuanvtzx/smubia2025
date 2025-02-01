@@ -1,0 +1,45 @@
+{
+    "Labor Violations": [
+        "child labor", "wage theft", "unsafe working conditions", "exploitation", 
+        "forced labor", "overtime violations", "labor trafficking", "unpaid wages",
+        "workplace abuse", "inadequate safety measures"
+    ],
+    "Fraud": [
+        "fraud", "scam", "embezzlement", "identity theft", "Ponzi scheme", "money laundering",
+        "false claims", "investment fraud", "credit card fraud", "bank fraud", "insurance fraud"
+    ],
+    "Corruption": [
+        "bribery", "kickback", "corruption", "misuse of power", "government scandal", 
+        "political corruption", "illegal campaign contributions", "pay-to-play", "public office abuse"
+    ],
+    "Violence": [
+        "assault", "homicide", "murder", "physical attack", "domestic violence", "gun violence", 
+        "shooting", "beating", "stabbing", "violent crime", "kidnapping", "terrorism"
+    ],
+    "Cybercrime": [
+        "hacking", "phishing", "data breach", "cyberattack", "ransomware", "malware", 
+        "online fraud", "identity theft", "cybersecurity breach", "DDoS attack", "cyber espionage"
+    ],
+    "Discrimination": [
+        "racism", "sexism", "discrimination", "racial profiling", "gender inequality", 
+        "ageism", "hate speech", "bias", "prejudice", "unequal treatment", "discriminatory practices"
+    ],
+    "Theft": [
+        "theft", "burglary", "robbery", "shoplifting", "grand theft", "petty theft", "larceny", 
+        "stealing", "armed robbery", "auto theft", "pickpocketing", "home invasion"
+    ],
+    "Sexual Misconduct": [
+        "harassment", "molestation", "abuse", "sexual assault", "rape", "inappropriate behavior", 
+        "misconduct", "sexual harassment", "coercion", "child abuse", "date rape", "groping"
+    ],
+    "Traffic Violations": [
+        "speeding", "drunk driving", "hit and run", "reckless driving", "running a red light", 
+        "traffic accident", "driving under the influence", "DUI", "road rage", "driving without license",
+        "driving without insurance", "jaywalking"
+    ],
+    "Drugs": [
+        "narcotics", "drug trafficking", "illegal substances", "cocaine", "heroin", "methamphetamine", 
+        "marijuana", "drug possession", "drug manufacturing", "drug smuggling", "drug abuse", "opioid crisis",
+        "substance abuse"
+    ]
+}
